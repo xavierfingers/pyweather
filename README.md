@@ -3,7 +3,7 @@ pyWeather
 * 1st step:
 * install reqs
 *2nd step:
-* run an Open-Meteo server at [http://open-meteo.com][Open-Meteo website]
+* run an Open-Meteo server at [[http://open-meteo.com]][Open-Meteo website]
 * final step:
 * connect and enjoy!
 
